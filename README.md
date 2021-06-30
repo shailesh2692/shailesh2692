@@ -29,4 +29,4 @@ A QA Engineer by accident and a Data Science, ML Enthusiast by heart looking to 
 [https://medium.com/@sahu2shailesh](https://medium.com/@sahu2shailesh)
 
 
-A special thanks to [https://github.com/PlayingNumbers] from 365 Data Science for inspiring and guiding me to add this feature.
+A special thanks to [Ken Jee](https://github.com/PlayingNumbers) from 365 Data Science for inspiring and guiding me to add this feature.
