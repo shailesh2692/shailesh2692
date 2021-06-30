@@ -25,4 +25,5 @@ A QA Engineer by accident and a Data Science, ML Enthusiast by heart looking to 
 - Text Analytics
 - Regression & Classification
 
-[Kaggle](https://www.kaggle.com/shailesh2692)               [Medium](https://medium.com/@sahu2shailesh)
+[Kaggle](https://www.kaggle.com/shailesh2692)                 
+[Medium](https://medium.com/@sahu2shailesh)
