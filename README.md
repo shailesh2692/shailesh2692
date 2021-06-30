@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Shailesh Sahu!
 
 <!--
 **shailesh2692/shailesh2692** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+A QA Engineer by accident and a Data Science, ML Enthusiast by heart looking to create a value and a positive impact in the field of Fashion, Healthcare, Ecommerce & Digital Marketing domains.
+
+### Data Science Interests
+- Exploratory Data Analytics
+- K-Means Clustering
+- NLP
+- Text Analytics
+- Regression & Classification
+
+[My Kaggle Profile](https://www.kaggle.com/shailesh2692)   [My Medium Profile](https://medium.com/@sahu2shailesh)
