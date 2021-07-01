@@ -26,8 +26,10 @@ A QA Engineer by accident and a Data Science, ML Enthusiast by heart looking to 
 - Regression & Classification
 
 ### Follow me here
-[Kaggle](https://www.kaggle.com/shailesh2692)                 
-[Medium](https://medium.com/@sahu2shailesh)
+[Kaggle](https://www.kaggle.com/shailesh2692)
+
+[Medium](https://medium.com/@sahu2shailesh)     
+
 [LinkedIn](https://www.linkedin.com/in/shailesh-sahu-15044612b/)
 
 
