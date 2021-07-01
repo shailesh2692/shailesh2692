@@ -26,9 +26,9 @@ A QA Engineer by accident and a Data Science, ML Enthusiast by heart looking to 
 - Regression & Classification
 
 ### Follow me here
-[https://www.kaggle.com/shailesh2692](Kaggle)                 
-[https://medium.com/@sahu2shailesh](Medium)
-[https://www.linkedin.com/in/shailesh-sahu-15044612b/](LinkedIn)
+[Kaggle](https://www.kaggle.com/shailesh2692)                 
+[Medium](https://medium.com/@sahu2shailesh)
+[LinkedIn](https://www.linkedin.com/in/shailesh-sahu-15044612b/)
 
 
 A special thanks to Youtubers [Kunaal Naik](https://github.com/KunaalNaik) [Ken Jee](https://github.com/PlayingNumbers) from 365 Data Science for inspiring and guiding me to add this feature.
