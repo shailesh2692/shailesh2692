@@ -33,4 +33,4 @@ A QA Engineer by accident and a Data Science, ML Enthusiast by heart looking to 
 [LinkedIn](https://www.linkedin.com/in/shailesh-sahu-15044612b/)
 
 
-A special thanks to Youtubers [Kunaal Naik](https://github.com/KunaalNaik) [Ken Jee](https://github.com/PlayingNumbers) from 365 Data Science for inspiring and guiding me to add this feature.
+A special thanks to Youtubers [Kunaal Naik](https://github.com/KunaalNaik) and [Ken Jee](https://github.com/PlayingNumbers) from 365 Data Science for inspiring and guiding me to add this feature.
