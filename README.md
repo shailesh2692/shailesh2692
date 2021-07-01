@@ -25,8 +25,10 @@ A QA Engineer by accident and a Data Science, ML Enthusiast by heart looking to 
 - Text Analytics
 - Regression & Classification
 
-[https://www.kaggle.com/shailesh2692](https://www.kaggle.com/shailesh2692)                 
-[https://medium.com/@sahu2shailesh](https://medium.com/@sahu2shailesh)
+### Follow me here
+[https://www.kaggle.com/shailesh2692](Kaggle)                 
+[https://medium.com/@sahu2shailesh](Medium)
+[https://www.linkedin.com/in/shailesh-sahu-15044612b/](LinkedIn)
 
 
-A special thanks to [Ken Jee](https://github.com/PlayingNumbers) from 365 Data Science for inspiring and guiding me to add this feature.
+A special thanks to Youtubers [Kunaal Naik](https://github.com/KunaalNaik) [Ken Jee](https://github.com/PlayingNumbers) from 365 Data Science for inspiring and guiding me to add this feature.
