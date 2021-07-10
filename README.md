@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-A QA Engineer by accident and a Data Science, ML Enthusiast by heart looking to create a value and a positive impact in the field of Fashion, Healthcare, Ecommerce & Digital Marketing domains.
+A QA Engineer by accident and a Data Science & ML Enthusiast by heart looking to create a value and a positive impact in the field of Fashion, Healthcare, Ecommerce & Digital Marketing domains.
 
 ### Data Science Interests
 - Exploratory Data Analytics
