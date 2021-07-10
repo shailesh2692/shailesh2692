@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 A QA Engineer by accident and a Data Science & an Applied ML Enthusiast by heart looking to create a value and a positive impact in the field of Fashion, Healthcare, Ecommerce & Digital Marketing domains.
 
 ### Data Science Interests
+- Applied ML
 - Exploratory Data Analytics
 - K-Means Clustering
 - NLP
