@@ -16,22 +16,18 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-A QA Engineer by accident and a Data Science & an Applied ML Enthusiast by heart looking to create a value and a positive impact in the field of Fashion, Healthcare, Ecommerce & Digital Marketing domains.
+A QA Engineer by choice looking to transition from Manual to Automation create a value and a positive impact in the field of Banking, Fintech, Healthcare, Ecommerce domains.
 
-### Data Science Interests
-- Applied ML
-- Exploratory Data Analytics
-- K-Means Clustering
-- NLP
-- Text Analytics
-- Regression & Classification
+### QA SDET Interests
+- Selenium 3 and above
+- Java 8 and above
+- Git, Github, Copilot, Anthropic Claude
+- Agentic AI Driven Testing
+- Test Reports
+- Regression Testing, Comprehensive Coverage
 
-### Follow me here
-[Kaggle](https://www.kaggle.com/shailesh2692)
-
-[Medium](https://medium.com/@sahu2shailesh)     
-
-[LinkedIn](https://www.linkedin.com/in/shailesh-sahu-15044612b/)
+### Follow me here   
+[LinkedIn](https://www.linkedin.com/in/shaileshsahusdetqa/)
 
 
-A special thanks to Youtubers [Kunaal Naik](https://github.com/KunaalNaik) and [Ken Jee](https://github.com/PlayingNumbers) from 365 Data Science for inspiring and guiding me to add this feature.
+A special thanks to Mahadev, Shreeji Radha Rani, Radha Vallabh Lal Ju, Shree Kunj Bihari, Banke Bihari.
