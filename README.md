@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-A QA Engineer by choice looking to transition from Manual to Automation create a value and a positive impact in the field of Banking, Fintech, Healthcare, Ecommerce domains.
+A QA Engineer by choice looking to transition from Manual to Automation create a value and a positive impact in the field of Fintech, Healthcare, Ecommerce, Travel & Real Estate domains.
 
 ### QA SDET Interests
 - Selenium 3 and above
@@ -25,6 +25,8 @@ A QA Engineer by choice looking to transition from Manual to Automation create a
 - Agentic AI Driven Testing
 - Test Reports
 - Regression Testing, Comprehensive Coverage
+- Playwright With TypeScript
+- Claude, Github Copilot & Deven AI Tools Enthusiast
 
 ### Follow me here   
 [LinkedIn](https://www.linkedin.com/in/shaileshsahusdetqa/)
